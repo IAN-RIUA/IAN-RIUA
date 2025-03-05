@@ -2,7 +2,7 @@
 - 👀 I’m interested and deeply inspired by the transformative power of data science to drive innovation and solve complex problems.
 - 🌱 My journey into this field is fueled by a passion for continuous learning and a desire to uncover insights that can make a meaningful impact.
 - 💞️ I’m looking forward to work with  like-minded professionals on projects that leverage data to inform strategic decisions and create positive change.
-- 📫 You can reach me through linked-www.linkedin.com/in/ian-riua or github as IAN-RIUA.
+- 📫 You can reach me through linked-www.linkedin.com/in/ian-riua or github as www.github.com/IAN-RIUA.
 - 😄 Pronouns: HE/HIM.
 - ⚡ Fun fact: For every line of code, I consume at least two cups of coffee.
 
