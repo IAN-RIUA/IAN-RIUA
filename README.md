@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @IAN-RIUA
-- 👀 I’m interested and deeply inspired by the transformative power of data science to drive innovation and solve complex problems.
-- 🌱 My journey into this field is fueled by a passion for continuous learning and a desire to uncover insights that can make a meaningful impact.
-- 💞️ I’m looking forward to work with  like-minded professionals on projects that leverage data to inform strategic decisions and create positive change.
-- 📫 You can reach me through linked-www.linkedin.com/in/ian-riua.
-- 😄 Pronouns: HE/HIM.
-- ⚡ Fun fact: For every line of code, I consume at least two cups of coffee and In a world of outliers, I am the anomaly.
+- Hey there, I’m Ian Riua
+Data Analyst | Python & SQL Developer | Data Science & IT Specialist 
+*About Me*
 
-<!---
-IAN-RIUA/IAN-RIUA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+I’m deeply inspired by the transformative power of data — how raw numbers can be shaped into insights that inform smarter decisions, drive innovation, and solve real-world challenges.
+
+My journey began with a background in Business Information Technology, which gave me a strong foundation in systems, logic, and organizational processes. Recently, I completed a Data Science bootcamp, where I gained hands-on experience in:
+
+🧠 Machine Learning: Building predictive models and uncovering trends in data
+
+💾 Data Analysis & Visualization: Using Python, SQL, Power BI, and Tableau to turn data into clear stories
+
+🔍 ETL & Automation: Streamlining workflows and improving data accessibility
+
+📊 Business Insight Generation: Bridging the gap between data and strategy
 --->
+*🤝 Let’s Collaborate*
+
+I’m looking to connect with like-minded professionals, mentors, and teams passionate about leveraging data to create impact — whether through:
+
+Open-source collaborations
+
+Real-world analytics projects
+
+Internships or entry-level data roles
+
+If you believe in the power of data to drive better outcomes, I’d love to be part of your mission.
+*📫 Get in Touch*
+
+💼 LinkedIn: linkedin.com/in/ian-riua
+
+💻 GitHub: github.com/Ian-Riua
+
+📱 Phone: +254 702 773 413
+*⚡ Fun Fact*
+
+For every line of code, I consume at least two cups of coffee ☕ — because in a world full of outliers, I’m proudly the anomaly.
