@@ -1,35 +1,35 @@
-Hey there, I’m Ian Riua.
+👋 Hey there, I’m Ian Riua
+💼 Data Analyst | Python & SQL Developer | Data Science & IT Specialist
+🧭 About Me
 
-Data Analyst | Python & SQL Developer | Data Science & IT Specialist 
+I’m passionate about the transformative power of data — how raw numbers can be shaped into insights that inform smarter decisions, drive innovation, and solve real-world challenges.
 
-**About Me**
+With a background in Business Information Technology and hands-on training in Data Science, I bring a unique blend of technical and analytical skills to bridge the gap between data, systems, and business strategy.
 
-I’m deeply inspired by the transformative power of data — how raw numbers can be shaped into insights that inform smarter decisions, drive innovation, and solve real-world challenges.
+🧩 What I Do
 
-My journey began with a background in Business Information Technology, which gave me a strong foundation in systems, logic, and organizational processes. Recently, I completed a Data Science bootcamp, where I gained hands-on experience in:
+🧠 Machine Learning & Predictive Modeling – Building models that uncover patterns, optimize performance, and support decision-making.
 
-🧠 Machine Learning: Building predictive models and uncovering trends in data
+💾 Data Analysis & Visualization – Transforming datasets into clear, actionable insights using Python, SQL, Power BI, and Tableau.
 
-💾 Data Analysis & Visualization: Using Python, SQL, Power BI, and Tableau to turn data into clear stories
+🔍 ETL & Automation – Designing efficient data pipelines to improve accuracy, accessibility, and reporting speed.
 
-🔍 ETL & Automation: Streamlining workflows and improving data accessibility
+📊 Business Intelligence – Translating analytical results into strategic recommendations that drive measurable business value.
 
-📊 Business Insight Generation: Bridging the gap between data and strategy
---->
+🤝 Let’s Collaborate
 
-**🤝 Let’s Collaborate**
+I’m excited to work with teams and professionals who share a vision of using data to make meaningful impact.
+Open to opportunities in:
 
-I’m looking to connect with like-minded professionals, mentors, and teams passionate about leveraging data to create impact — whether through:
+🔓 Open-source or community-driven data projects
 
-Open-source collaborations
+🧾 Real-world analytics and research initiatives
 
-Real-world analytics projects
+💼 Data analytics or machine learning internships / entry-level roles
 
-Internships or entry-level data roles
+If your work thrives on data-driven innovation, I’d love to contribute and grow alongside your team.
 
-If you believe in the power of data to drive better outcomes, I’d love to be part of your mission.
-
-**📫 Get in Touch **
+📫 Get in Touch
 
 💼 LinkedIn: linkedin.com/in/ian-riua
 
@@ -37,7 +37,8 @@ If you believe in the power of data to drive better outcomes, I’d love to be p
 
 📱 Phone: +254 702 773 413
 
+📧 Email: optional — you can add it if you want recruiters to reach you directly
 
-**⚡ Fun Fact**
+⚡ Fun Fact
 
 For every line of code, I consume at least two cups of coffee ☕ — because in a world full of outliers, I’m proudly the anomaly.
