@@ -2,7 +2,7 @@ Hey there, I’m Ian Riua.
 
 Data Analyst | Python & SQL Developer | Data Science & IT Specialist 
 
-***About Me***
+**About Me**
 
 I’m deeply inspired by the transformative power of data — how raw numbers can be shaped into insights that inform smarter decisions, drive innovation, and solve real-world challenges.
 
