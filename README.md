@@ -1,12 +1,14 @@
 👋 Hey there, I’m Ian Riua
+
 💼 Data Analyst | Python & SQL Developer | Data Science & IT Specialist
-🧭 About Me
+
+*🧭 About Me*
 
 I’m passionate about the transformative power of data — how raw numbers can be shaped into insights that inform smarter decisions, drive innovation, and solve real-world challenges.
 
 With a background in Business Information Technology and hands-on training in Data Science, I bring a unique blend of technical and analytical skills to bridge the gap between data, systems, and business strategy.
 
-🧩 What I Do
+*🧩 What I Do*
 
 🧠 Machine Learning & Predictive Modeling – Building models that uncover patterns, optimize performance, and support decision-making.
 
@@ -16,7 +18,7 @@ With a background in Business Information Technology and hands-on training in Da
 
 📊 Business Intelligence – Translating analytical results into strategic recommendations that drive measurable business value.
 
-🤝 Let’s Collaborate
+*🤝 Let’s Collaborate*
 
 I’m excited to work with teams and professionals who share a vision of using data to make meaningful impact.
 Open to opportunities in:
@@ -29,7 +31,7 @@ Open to opportunities in:
 
 If your work thrives on data-driven innovation, I’d love to contribute and grow alongside your team.
 
-📫 Get in Touch
+*📫 Get in Touch*
 
 💼 LinkedIn: linkedin.com/in/ian-riua
 
@@ -39,6 +41,6 @@ If your work thrives on data-driven innovation, I’d love to contribute and gro
 
 📧 Email: optional — you can add it if you want recruiters to reach you directly
 
-⚡ Fun Fact
+*⚡ Fun Fact*
 
 For every line of code, I consume at least two cups of coffee ☕ — because in a world full of outliers, I’m proudly the anomaly.
