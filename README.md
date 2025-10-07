@@ -17,7 +17,7 @@ My journey began with a background in Business Information Technology, which gav
 📊 Business Insight Generation: Bridging the gap between data and strategy
 --->
 
-***🤝 Let’s Collaborate***
+**🤝 Let’s Collaborate**
 
 I’m looking to connect with like-minded professionals, mentors, and teams passionate about leveraging data to create impact — whether through:
 
@@ -29,7 +29,7 @@ Internships or entry-level data roles
 
 If you believe in the power of data to drive better outcomes, I’d love to be part of your mission.
 
-***-📫 Get in Touch -***
+**📫 Get in Touch **
 
 💼 LinkedIn: linkedin.com/in/ian-riua
 
@@ -38,6 +38,6 @@ If you believe in the power of data to drive better outcomes, I’d love to be p
 📱 Phone: +254 702 773 413
 
 
-***⚡ Fun Fact***
+**⚡ Fun Fact**
 
 For every line of code, I consume at least two cups of coffee ☕ — because in a world full of outliers, I’m proudly the anomaly.
