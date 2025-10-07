@@ -39,8 +39,4 @@ If your work thrives on data-driven innovation, I’d love to contribute and gro
 
 📱 Phone: +254 702 773 413
 
-📧 Email: optional — you can add it if you want recruiters to reach you directly
 
-*⚡ Fun Fact*
-
-For every line of code, I consume at least two cups of coffee ☕ — because in a world full of outliers, I’m proudly the anomaly.
