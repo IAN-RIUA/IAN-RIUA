@@ -29,13 +29,15 @@ Internships or entry-level data roles
 
 If you believe in the power of data to drive better outcomes, I’d love to be part of your mission.
 
-***📫 Get in Touch***
+***-📫 Get in Touch -***
 
 💼 LinkedIn: linkedin.com/in/ian-riua
 
 💻 GitHub: github.com/Ian-Riua
 
 📱 Phone: +254 702 773 413
+
+
 ***⚡ Fun Fact***
 
 For every line of code, I consume at least two cups of coffee ☕ — because in a world full of outliers, I’m proudly the anomaly.
