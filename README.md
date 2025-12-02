@@ -4,17 +4,17 @@
 
 *🧭 About Me*
 
-I’m passionate about the transformative power of data — how raw numbers can be shaped into insights that inform smarter decisions, drive innovation, and solve real-world challenges.
+I’m passionate about the transformative power of data — how raw numbers can be shaped into insights that inform smarter decisions, drive innovation and solve real-world challenges.
 
-With a background in Business Information Technology and hands-on training in Data Science, I bring a unique blend of technical and analytical skills to bridge the gap between data, systems, and business strategy.
+With a background in Business Information Technology and hands-on training in Data Science, I bring a unique blend of technical and analytical skills to bridge the gap between data, systems and business strategy.
 
 *🧩 What I Do*
 
-🧠 Machine Learning & Predictive Modeling – Building models that uncover patterns, optimize performance, and support decision-making.
+🧠 Machine Learning & Predictive Modeling – Building models that uncover patterns, optimize performance and support decision-making.
 
-💾 Data Analysis & Visualization – Transforming datasets into clear, actionable insights using Python, SQL, Power BI, and Tableau.
+💾 Data Analysis & Visualization – Transforming datasets into clear, actionable insights using Python, SQL, Power BI and Tableau.
 
-🔍 ETL & Automation – Designing efficient data pipelines to improve accuracy, accessibility, and reporting speed.
+🔍 ETL & Automation – Designing efficient data pipelines to improve accuracy, accessibility and reporting speed.
 
 📊 Business Intelligence – Translating analytical results into strategic recommendations that drive measurable business value.
 
