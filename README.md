@@ -4,7 +4,7 @@
 
 *🧭 About Me*
 
-I’m passionate about the transformative power of data — how raw numbers can be shaped into insights that inform smarter decisions, drive innovation and solve real-world challenges.
+I’m passionate about the transformative power of data  how raw numbers can be shaped into insights that inform smarter decisions, drive innovation and solve real-world challenges.
 
 With a background in Business Information Technology and hands-on training in Data Science, I bring a unique blend of technical and analytical skills to bridge the gap between data, systems and business strategy.
 
@@ -23,7 +23,7 @@ With a background in Business Information Technology and hands-on training in Da
 I’m excited to work with teams and professionals who share a vision of using data to make meaningful impact.
 Open to opportunities in:
 
-🔓 Open-source or community-driven data projects
+🔓 Open source or community driven data projects
 
 🧾 Real-world analytics and research initiatives
 
