@@ -1,4 +1,4 @@
-Hey there, I’m Ian Riua
+*👋 Hey there, I’m Ian Riua*
 
 💼 Data Analyst | Python & SQL Developer | Data Science & IT Specialist
 
