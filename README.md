@@ -20,7 +20,7 @@ With a background in Business Information Technology and hands on training in Da
 
 *🤝 Let’s Collaborate*
 
-I’m excited to work with teams and professionals who share a vision of using data to make meaningful impact.
+I’m excited to work with teams and professionals who share a vision of using data to make meaningful impact and 
 Open to opportunities in:
 
 🔓 Open source or community driven data projects
@@ -29,7 +29,7 @@ Open to opportunities in:
 
 💼 Data analytics or machine learning internships / entry level roles
 
-If your work thrives on data-driven innovation, I’d love to contribute and grow alongside your team.
+If your work thrives on data driven innovation, I’d love to contribute and grow alongside your team.
 
 *📫 Get in Touch*
 
