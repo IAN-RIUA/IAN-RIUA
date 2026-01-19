@@ -29,7 +29,7 @@ Open to opportunities in:
 
 💼 Data analytics or machine learning internships / entry level roles
 
-If your work thrives on data driven innovation, I’d love to contribute and grow alongside your team.
+If your work thrives on data-driven innovation, I’d love to contribute and grow alongside your team.
 
 *📫 Get in Touch*
 
