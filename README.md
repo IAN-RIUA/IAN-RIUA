@@ -4,7 +4,7 @@
 
 *🧭 About Me*
 
-I’m passionate about the transformative power of data  how raw numbers can be shaped into insights that inform smarter decisions, drive innovation and solve real-world challenges.
+I am passionate about the transformative power of data  how raw numbers can be shaped into insights that inform smarter decisions, drive innovation and solve real-world challenges.
 
 With a background in Business Information Technology and hands on training in Data Science, I bring a unique blend of technical and analytical skills to bridge the gap between data, systems and business strategy.
 
