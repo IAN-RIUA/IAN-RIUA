@@ -12,7 +12,7 @@ With a background in Business Information Technology and hands on training in Da
 
 🧠 Machine Learning & Predictive Modeling – Building models that uncover patterns, optimize performance and support decision-making.
 
-💾 Data Analysis & Visualization – Transforming datasets into clear, actionable insights using Python, SQL, Power BI and Tableau.
+💾 Data Analysis & Visualization – Transforming datasets into clear, actionable insights using excel,Python, SQL, Power BI and Tableau.
 
 🔍 ETL & Automation – Designing efficient data pipelines to improve accuracy, accessibility and reporting speed.
 
@@ -38,5 +38,7 @@ If your work thrives on data-driven innovation, I’d love to contribute and gro
 💻 GitHub: github.com/Ian-Riua
 
 📱 Phone: +254 702 773 413
+    
+  -https://ianriua-portfolio.vercel.app/-
 
 
