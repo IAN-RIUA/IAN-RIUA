@@ -39,6 +39,6 @@ If your work thrives on data-driven innovation, I’d love to contribute and gro
 
 📱 Phone: +254 702 773 413
     
-  -https://ianriua-portfolio.vercel.app/-
+  https://ianriua-portfolio.vercel.app/
 
 
