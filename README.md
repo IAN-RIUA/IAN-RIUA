@@ -1,4 +1,4 @@
-Hey there, I’m Ian Riua
+* Hey there, I’m Ian Riua*
 
 💼 Data Analyst | Python & SQL Developer | Data Science & IT Specialist
 
@@ -31,7 +31,7 @@ Open to opportunities in:
 
 If your work thrives on data driven innovation, I would love to contribute and grow alongside your team.
 
-*📫 Get in Touch*
+*📫 Lets work together*
 
 💼 LinkedIn: linkedin.com/in/ian-riua
 
