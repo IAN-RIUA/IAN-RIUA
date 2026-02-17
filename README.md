@@ -12,9 +12,9 @@ With a background in Business Information Technology and hands on training in Da
 
 🧠 Machine Learning & Predictive Modeling – Building models that uncover patterns, optimize performance and support decision-making.
 
-💾 Data Analysis & Visualization – Transforming datasets into clear, actionable insights using excel,Python, SQL, Power BI, and Tableau.
+💾 Data Analysis & Visualization – Transforming datasets into clear, actionable insights using excel,Python, SQL, Power BI and Tableau.
 
-🔍 ETL & Automation – Designing efficient data pipelines to improve accuracy, accessibility, and reporting speed.
+🔍 ETL & Automation – Designing efficient data pipelines to improve accuracy, accessibility and reporting speed.
 
 📊 Business Intelligence – Translating analytical results into strategic recommendations that drive measurable business value.
 
