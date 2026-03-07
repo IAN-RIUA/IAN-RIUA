@@ -27,7 +27,7 @@ Open to opportunities in:
 
 🧾 Real world analytics and research initiatives
 
-💼 Data analytics or machine learning internships / entry level roles
+💼 Data analytics or machine learning internships / entry level roles as well
 
 If your work thrives on data driven innovation,I would love to contribute and grow alongside your team.
 
