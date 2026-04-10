@@ -10,7 +10,7 @@
 
 ### About me
 
-I'm a Data Analyst with a background in Business Information Technology and applied Data Science training from Moringa School. My work lives at the intersection of data engineering, analytics, and business strategy — I build pipelines that clean the noise, models that surface patterns, and dashboards that make insights impossible to miss.
+I'm a Data Analyst with a background in Business Information Technology and applied Data Science training. My work lives at the intersection of data engineering, analytics, and business strategy — I build pipelines that clean the noise, models that surface patterns and dashboards that make insights impossible to miss.
 
 Currently at **Text Book Center**, where I track field team performance, automate reporting, and build dashboards for senior management. I care deeply about the last mile of data work: getting insights into the hands of people who can act on them.
 
@@ -38,7 +38,7 @@ Power BI · Tableau · Excel (Advanced) · Git · Jupyter
 
 ### Currently looking for
 
-Open to **Data Analyst**, **Data Scientist**, and **ML Engineer** roles — entry-level to mid-level, remote or Nairobi-based. Also happy to collaborate on open-source data and analytics projects.
+Open to **Data Analyst**, **Data Scientist** and **ML Engineer** roles — entry-level to mid-level, remote or Nairobi-based. Also happy to collaborate on open-source data and analytics projects.
 
 ---
 
