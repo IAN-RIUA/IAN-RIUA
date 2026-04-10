@@ -1,44 +1,51 @@
-*Hey there, I’m Ian Riua*
+<h1>Ian Riua</h1>
 
-💼 Data Analyst | Python & SQL Developer | Data Science & IT Specialist
+> **Data Analyst & Data Scientist** — turning messy data into decisions that matter
 
-*🧭 About Me*
+![Open to work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-1D9E75?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-378ADD?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Python%20%C2%B7%20SQL%20%C2%B7%20ML-7F77DD?style=flat-square)
 
-I am passionate about the transformative power of data  how raw numbers can be shaped into insights that inform smarter decisions, drive innovation and solve real world challenges.
+---
 
-With a background in Business Information Technology and hands on training in Data Science, I bring a unique blend of technical and analytical skills to bridge the gap between data, systems and business strategy.
+### About me
 
-*🧩 What I Do*
+I'm a Data Analyst with a background in Business Information Technology and applied Data Science training from Moringa School. My work lives at the intersection of data engineering, analytics, and business strategy — I build pipelines that clean the noise, models that surface patterns, and dashboards that make insights impossible to miss.
 
-🧠 Machine Learning & Predictive Modeling – Building models that uncover patterns, optimize performance and support decision-making.
+Currently at **Text Book Center**, where I track field team performance, automate reporting, and build dashboards for senior management. I care deeply about the last mile of data work: getting insights into the hands of people who can act on them.
 
-💾 Data Analysis & Visualization – Transforming datasets into clear, actionable insights using excel,Python, SQL, Power BI and Tableau.
+---
 
-🔍 ETL & Automation – Designing efficient data pipelines to improve accuracy, accessibility and reporting speed.
+### What I do
 
-📊 Business Intelligence – Translating analytical results into strategic recommendations that drive measurable business value.
+| | |
+|---|---|
+| **Machine Learning** | Classification, regression & predictive models using scikit-learn and XGBoost |
+| **Data Analysis & BI** | From raw datasets to executive dashboards in Python, Power BI, and Tableau |
+| **ETL & Automation** | Automated pipelines with pandas and SQL to eliminate manual reporting bottlenecks |
+| **Business Intelligence** | Translating analytical outputs into strategic recommendations for leadership |
 
-*🤝 Let’s Collaborate*
+---
 
-I am excited to work with teams and professionals who share a vision of using data to make meaningful impact and 
-Open to opportunities in:
+### Tech stack
 
-🔓 Open source or community driven data projects
+```
+Python · pandas · NumPy · scikit-learn · XGBoost · SQL
+Power BI · Tableau · Excel (Advanced) · Git · Jupyter
+```
 
-🧾 Real world analytics and research initiatives
+---
 
-💼 Data analytics or machine learning internships / entry level roles.
+### Currently looking for
 
-If your work thrives on data driven innovation,I would love to contribute and grow alongside your team.
+Open to **Data Analyst**, **Data Scientist**, and **ML Engineer** roles — entry-level to mid-level, remote or Nairobi-based. Also happy to collaborate on open-source data and analytics projects.
 
-*📫 Lets work together*
+---
 
-💼 LinkedIn: linkedin.com/in/ian-riua
+### Connect
 
-💻 GitHub: github.com/Ian-Riua
-
-📱 Phone: +254 702 773 413
-    
-www.riuaian.info
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ian--riua-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ian-riua)
+[![Portfolio](https://img.shields.io/badge/Portfolio-riuaian.info-000000?style=flat-square&logo=vercel)](http://www.riuaian.info)
+[![GitHub](https://img.shields.io/badge/GitHub-Ian--Riua-181717?style=flat-square&logo=github)](https://github.com/Ian-Riua)
 
 
