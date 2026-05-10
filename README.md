@@ -21,7 +21,7 @@ Currently at **Text Book Center**, where I track field team performance, automat
 | | |
 |---|---|
 | **Machine Learning** | Classification, regression & predictive models using scikit-learn and XGBoost |
-| **Data Analysis & BI** | From raw datasets to executive dashboards in Python, Power BI, and Tableau |
+| **Data Analysis & BI** | From raw datasets to executive dashboards in Python, Power BI and Tableau |
 | **ETL & Automation** | Automated pipelines with pandas and SQL to eliminate manual reporting bottlenecks |
 | **Business Intelligence** | Translating analytical outputs into strategic recommendations for leadership |
 
