@@ -38,7 +38,7 @@ Power BI · Tableau · Excel (Advanced) · Git · Jupyter
 
 ### Currently looking for
 
-Open to **Data Analyst**, **Data Scientist** and **ML Engineer** roles — entry-level to mid-level, remote or Nairobi-based. Also happy to collaborate on open-source data and analytics projects.
+Open to **Data Analyst**, **Data Scientist** and **ML Engineer** roles — entry-level to mid-level, remote or Nairobi based. Also happy to collaborate on open source data and analytics projects.
 
 ---
 
