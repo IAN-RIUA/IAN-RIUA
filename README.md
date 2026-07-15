@@ -11,6 +11,8 @@
 ### About me
 
 I'm a Data Analyst with a background in Business Information Technology and applied Data Science training. My work lives at the intersection of data engineering, analytics and business strategy. I build pipelines that clean the noise, models that surface patterns and dashboards that make insights impossible to miss.
+
+
 ---
 
 ### What I do
