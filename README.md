@@ -3,7 +3,7 @@
 > **Data Analyst & Data Scientist** — turning messy data into decisions that matter
 
 ![Open to work](https://img.shields.io/badge/Status-Open%20to%20Opportunities-1D9E75?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-378ADD?style=flat-square)
+![Location](https://img.shields.io/badge/Location-world%2C%20globe-378ADD?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Python%20%C2%B7%20SQL%20%C2%B7%20ML-7F77DD?style=flat-square)
 
 ---
